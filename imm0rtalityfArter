@@ -178,7 +178,7 @@ function Funcs.Notify(StarterText,Text)
 		DoThing()
 	end
 end
---[[{\/J}]]Funcs.Notify("[Immortality Lord]: ","imortality nigger!")
+--[[{\/J}]]Funcs.Notify("[Immortality Lord]: ","i love farts111111!!!")
 game:GetService("Players").LocalPlayer.Chatted:Connect(function(msg)
 	Funcs.Notify("[Immortality Lord]: ",msg)
 end)
